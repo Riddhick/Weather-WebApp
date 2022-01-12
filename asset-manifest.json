@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Riddhick/Weather-WebApp/static/css/main.952d6066.css",
-    "main.js": "/Riddhick/Weather-WebApp/static/js/main.0507ac04.js",
-    "index.html": "/Riddhick/Weather-WebApp/index.html",
-    "main.952d6066.css.map": "/Riddhick/Weather-WebApp/static/css/main.952d6066.css.map",
-    "main.0507ac04.js.map": "/Riddhick/Weather-WebApp/static/js/main.0507ac04.js.map"
+    "main.css": "/Riddhick/weather/static/css/main.952d6066.css",
+    "main.js": "/Riddhick/weather/static/js/main.0507ac04.js",
+    "index.html": "/Riddhick/weather/index.html",
+    "main.952d6066.css.map": "/Riddhick/weather/static/css/main.952d6066.css.map",
+    "main.0507ac04.js.map": "/Riddhick/weather/static/js/main.0507ac04.js.map"
   },
   "entrypoints": [
     "static/css/main.952d6066.css",
